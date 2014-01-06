@@ -1,7 +1,10 @@
 Hexameter.js
 ===
 
-An experiment in metrically scanning ancient verse: Inspired by [hexameter](https://github.com/branker/hexameter) by @branker
+An experiment in metrically scanning ancient verse
+
+Inspired by and based on [hexameter](https://github.com/branker/hexameter)
+
 
 Table of Contents
 ---
