@@ -1,0 +1,28 @@
+{
+  "name": "hexameter",
+  "version": "0.0.0",
+  "description": "An experiment in metrically scanning ancient verse",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test-cov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Pletcher/hexameter-js.git"
+  },
+  "devDependencies": {
+    "mocha": "1.14.x",
+    "chai": "1.8.x",
+    "istanbul": "0.1.45"
+  },
+  "keywords": [
+    "nlp",
+    "meter",
+    "poetry",
+    "homer",
+    "tragedy",
+    "hexameter"
+  ],
+  "author": "Charles Pletcher",
+  "license": "MIT"
+}
